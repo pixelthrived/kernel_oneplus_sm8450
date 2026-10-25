@@ -163,3 +163,9 @@ arch/arm/boot/dts/vendor
 
 # Documentation toolchain
 sphinx_*/
+
+# kernel/build configuration files
+build.config.msm.*
+
+# oplus internel abi
+android/abi_gki_aarch64_oplus_internal
